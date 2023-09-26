@@ -124,20 +124,7 @@ Instrucciones:
 
 </html>
 
-
-
-
-
-
-
-
-
-
-
 </form>
-</body>
-
-</html>
 ```
 
 
