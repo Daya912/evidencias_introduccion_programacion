@@ -57,7 +57,7 @@ Las páginas del sitio serán:
 ```
 
 ## Contact.html
-``` java
+```html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -109,7 +109,7 @@ Las páginas del sitio serán:
 ```
 
 ## Index.html
-``` java
+```html
 
 <!DOCTYPE html>
 <html>
