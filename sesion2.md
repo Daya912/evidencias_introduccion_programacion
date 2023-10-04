@@ -17,7 +17,7 @@ Las páginas del sitio serán:
 
 ## Solución
 ## About.html
-```java
+```html
 
 <!DOCTYPE html>
 <html lang="en">
