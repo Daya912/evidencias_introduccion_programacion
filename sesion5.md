@@ -28,7 +28,7 @@ Instrucciones:
 4. Utilizar las etiquetas HTML apropiados para cada campo.
 
 ## Solución
-```java
+```html
 
 <!DOCTYPE html>
 <html lang="en">
