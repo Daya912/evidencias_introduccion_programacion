@@ -40,7 +40,7 @@ Aplica los siguientes estilos usando seleccionadores descendientes:
 * Centrar el contenido de la sección < section>
 
 ## Solución 
-```java
+```html
 <!DOCTYPE html>
 <html lang="en">
 
