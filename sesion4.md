@@ -21,7 +21,7 @@ Además, combinar celdas en la tabla con los atributos rowspan y colspan, como s
 ![tabla](image.png)
 
 ## Solución
-```java
+```html
 
 <!DOCTYPE html>
 <html lang="en">
