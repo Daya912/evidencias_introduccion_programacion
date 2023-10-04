@@ -28,7 +28,7 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 + Considera el uso de < div > para crear secciones o contenedores para tu contenido, lo que puede facilitar la organización y el diseño de la página.
 
 ## Plantilla inicial 
-```java
+```html
 
 <!DOCTYPE html>
 <html>
