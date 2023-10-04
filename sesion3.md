@@ -148,7 +148,7 @@ En cuanto al estilo, el CSS define reglas para la apariencia visual del sitio:
 Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multimedia en HTML5, con una estructura semántica que utiliza encabezados, párrafos y secciones para organizar y presentar el contenido. El estilo CSS proporciona una apariencia visual coherente y agradable.
 
 # Solución
-```java
+```html
 
 <!DOCTYPE html>
 <html>
