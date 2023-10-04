@@ -40,6 +40,7 @@ Aplica los siguientes estilos usando seleccionadores descendientes:
 * Centrar el contenido de la sección < section>
 
 ## Solución 
+## index.html
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -101,7 +102,39 @@ Aplica los siguientes estilos usando seleccionadores descendientes:
 
 </html>
 ```
+## estilos css
+```css
+h1{
+    color: red;
+    font-size: 2.7em;
+}
+p{
+    color: blue;
+}
+img{
+    border: black 10px solid;
+}
+.destacado{
+    color: green;
+}
+.grande{
+    font-size: 1.9em;
+}
+#principal{
+    color:yellow;
+}
+#sombras{
+    box-shadow: 5px 6px 70 px rgb(199, 190, 190);
+}
 
+body{
+    background-color: rgb(95, 196, 187);
+}
+div{
+    color: gray;
+}
+
+```
 
 
 
