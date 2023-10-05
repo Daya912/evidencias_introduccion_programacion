@@ -41,9 +41,11 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
   height: 100px;
 }
 ```
+
 4. Abre el archivo HTML en tu navegador. Verás un cuadrado de 100x100 píxeles.
 
 5. Practicar el uso de las propiedades de espaciado.
+
 
 * Margin: Agrega un margen de 10 píxeles a todos los lados del elemento.
 ```css
@@ -148,8 +150,7 @@ Cuando estos dos valores de la elipse son iguales, el resultado es un círculo. 
 
 Cabe destacar que no se puede redondear el borde si uno de los dos valores (x o y) es 0.
 
-## 5. 
-## Unidades de medida absolutas
+## 5. Unidades de medida absolutas
 Las unidades de medida en CSS de tipo absoluto hacen referencia a las unidades que no cambian, esas que en todos lo contextos son iguales. En CSS, existen siete unidades de medida absolutas, te las presentamos a continuación:
 
 + **in**: hace referencia a las pulgadas, que son iguales a 2.54cm.
