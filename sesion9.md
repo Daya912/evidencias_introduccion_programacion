@@ -31,6 +31,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 ```
 
 3. En el archivo CSS, agrega el siguiente código:
+
 ```css
 .contenedor {
   width: 200px;
