@@ -30,7 +30,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 </html>
 ```
 
- 3. En el archivo CSS, agrega el siguiente código:
+3. En el archivo CSS, agrega el siguiente código:
 ```css
 .contenedor {
   width: 200px;
@@ -44,7 +44,9 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 
 4. Abre el archivo HTML en tu navegador. Verás un cuadrado de 100x100 píxeles.
 
+
 5. Practicar el uso de las propiedades de espaciado.
+
 
 * Margin: Agrega un margen de 10 píxeles a todos los lados del elemento.
 ```css
